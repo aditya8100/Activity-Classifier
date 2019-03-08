@@ -3,34 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed95a02f-ce54-44c7-98b4-ed9898c6c16d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/activity_labels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/features.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/features_info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_acc_x_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_acc_y_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_acc_z_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_gyro_x_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_gyro_y_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/body_gyro_z_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/total_acc_x_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/total_acc_y_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/Inertial Signals/total_acc_z_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/X_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/subject_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/test/y_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_acc_x_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_acc_y_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_acc_z_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_gyro_x_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_gyro_y_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/body_gyro_z_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/total_acc_x_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/total_acc_y_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/Inertial Signals/total_acc_z_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/X_train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WISDM_ar_v1.1_raw.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/subject_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HARDataset/train/y_train.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/script.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,15 +12,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/exercise_model$script.coverage" NAME="script Coverage Results" MODIFIED="1551982007814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercise_model$script.coverage" NAME="script Coverage Results" MODIFIED="1552007961052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1014">
-              <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+            <state relative-caret-position="652">
+              <caret line="146" selection-start-line="146" selection-end-line="146" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -83,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -172,7 +144,9 @@
       <workItem from="1551488898300" duration="303000" />
       <workItem from="1551489230653" duration="8546000" />
       <workItem from="1551564203690" duration="1244000" />
-      <workItem from="1551978896182" duration="3137000" />
+      <workItem from="1551978896182" duration="7853000" />
+      <workItem from="1552063761893" duration="2000" />
+      <workItem from="1552064554242" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1551499826504</created>
@@ -181,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551499826504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New dataset">
+      <created>1551982114963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551982114963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13238000" />
+    <option name="totallyTimeSpent" value="17991000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,14 +178,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.19670959" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42289156" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39009902" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -213,12 +194,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32871288" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.21173105" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.15665236" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -227,7 +208,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="New dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="New dataset" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/WearableComputing_weight_lifting_exercises_biceps_curl_variations.csv" />
@@ -238,9 +220,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HARDataset/activity_labels.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HARDataset/activity_labels.txt" />
     <entry file="file://$PROJECT_DIR$/dataset-har-PUC-Rio-ugulino.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="1771830">
@@ -253,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        <state relative-caret-position="652">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
