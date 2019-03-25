@@ -1,1 +1,15 @@
-# exercise-model
+# Activity Classifier
+
+Uses machine learning to classify activity using the WISDM dataset. Trained a 1D Convolutional Neural Network using Keras in Python and achieved a testing accuracy of 85%.
+
+# Features Achieved
+
+- Model trained and tested.
+- App to collect data for new focus with Apple Watch Companion.
+
+# Features To Be Achieved
+
+- Change focus from activity to exercises.
+- Collect data using Apple Watch and retrain model on new data.
+- Make final application as well as Apple Watch companion.
+- Export model to iOS application using CoreML to run model predictions locally on device.
